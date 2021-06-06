@@ -8,7 +8,7 @@ Nombre: Kevin  & ID: 802-- \\
 Sección: 060, 066, 070 & Instructor: Malvin Santos \\
 \end{tabular}
 
-
+## **Parte 1: Resistencias**
 
 ### Tabla A-1 Resistencias Fijas
 
@@ -28,4 +28,28 @@ Sección: 060, 066, 070 & Instructor: Malvin Santos \\
 
 ### Tabla 1-2 Resistencias Variables 
 
+| Resistencia Medida |
+| :--                |
+| R13 | R12 | R23 |
 
+### La fotorresistencia
+
+Valor con máxima luz: []Ω
+Valor con mínima luz: []Ω
+
+<br>
+
+Describa el comportamiento de la fotorresistencia con la luz
+
+
+<br>
+
+## **Parte 2: El Multímetro**
+
+## **Parte 3: Ley de Ohm**
+
+|Voltaje (V)|0.5|1|2|3|4|5|6|7|8|9|
+| :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
+|Corriente (mA)|||||||||||
+
+## **Gráfica:**
