@@ -20,11 +20,11 @@ Sección: 060, 066, 070 & Instructor: Malvin Santos \\
 | :--                           | :--     | :--     | :--      | :--      | :--      | :--     | :--      | :--      | :--      |
 | Tolerancia                    | 5%      | 5%      | 5%       | 5%       | 5%       | 5%      | 5%       | 5%       | 5%       |
 | Valor Máx.                    | 22.11 Ω | 39.20 Ω | 562.80 Ω | 150.75 Ω | 180.90 Ω | 221.1 Ω | 472.75 Ω | 562.80 Ω | 824.10 Ω |
-| Valor Min.                    |      |      |       |     |     |
+| Valor Min.                    | 21.89 Ω | 38.81 Ω | 557.2 Ω  |     |     |
 | Porcentaje (%) de Diferencia  |      |      |       |     |     |      
 
 #### ¿Cómo se debe considerar a las resistencias cuyo valor real está por fuera del rango de tolerancia aceptable?
-
+Se debe considerar la resistencia como una la cual esta fallando y se debe cambiar
 
 ### Tabla 1-2 Resistencias Variables 
 
