@@ -1,0 +1,18 @@
+Comment,Designator,Footprint,LCSC Part #
+0.1uF Unpolarized capacitor,"C1,C2,C3,C4,C5",C_0805_2012Metric,C126469
+10uF Unpolarized capacitor,C6,C_0805_2012Metric,C90544
+"1N4148W 75V 0.15A Fast Switching Diode, SOD-123","D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12",D_SOD-123,C2892570
+"TLC-PSMD010/24 Resettable fuse, polymeric positive temperature coefficient",F1,Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C261938
+MountingHole_Pad Mounting Hole with connection,"H1,H2,H3,H4,H5",MountingHole_2.5mm_Pad_Via,
+USB_C_Receptacle_USB2.0 USB 2.0-only Type-C Receptacle connector,J1,USB_C_Receptacle_XKB_U262-16XN-4BVC11,C319148
+"2k Resistor, US symbol","R1,R2,R7,R10",R_0805_2012Metric,C114748
+"22 Resistor, US symbol","R3,R4",R_0805_2012Metric,C409739
+"10k Resistor, US symbol","R5,R6,R11,R12,R13,R14,R15,R16",R_0805_2012Metric,C115295
+"5.1k Resistor, US symbol","R8,R9",R_0805_2012Metric,C269748
+PEC11R-4215F-S0024 ROTARY ENCODER MECHANICAL 24PPR,"S1,S2",Rotary_Encoder_Switched_PEC11R,C143790
+"MX_SW_HS Push button switch, normally open, two pins, 45° tilted","SW1,SW2,SW3,SW4,SW5,SW6,SW7,SW8,SW9,SW10,SW11,SW12",SW_MX_HS_1u,
+"RESET_BTN Push button switch, generic, two pins",SW13,SW_Push_1P1T_NO_6x6mm_H9.5mm,C178262
+"USBLC6-2SC6 Very low capacitance ESD protection diode, 2 data-line, SOT-23-6",U1,SOT-23-6,C7519
+"ATmega32U4-A 16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44",U2,TQFP-44_10x10mm_P0.8mm,C44854
+SSD1306 OLED 0.96 inch Display is based on a popular SSD1306 display controller. This OLED 0.96 inch module works on both I2C (TWI). The display is small in size and very crisp. This 128X64 oled Arduino screen board has a resolution of 128X64 pixels,U3,SSD1306_0.96_Oled,
+16MHZ Three pin ceramic resonator,Y1,Resonator_SMD-3Pin_7.2x3.0mm_CSTNE16M0VH3C000R0,C882605
